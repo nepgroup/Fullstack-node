@@ -1,0 +1,23 @@
+{
+  "name": "terremotos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CoderHouse/terremotos.git"
+  },
+  "author": "alejandro.oviedo.g@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoderHouse/terremotos/issues"
+  },
+  "homepage": "https://github.com/CoderHouse/terremotos",
+  "dependencies": {
+    "minimist": "^1.1.1",
+    "serve-static": "^1.9.2"
+  }
+}
